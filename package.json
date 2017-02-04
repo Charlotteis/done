@@ -1,0 +1,29 @@
+{
+  "name": "done",
+  "version": "1.0.0",
+  "description": "Doing, Doing, Done.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charlotteis/done.git"
+  },
+  "keywords": [
+    "next.js",
+    "todo",
+    "doing",
+    "done",
+    "react"
+  ],
+  "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Charlotteis/done/issues"
+  },
+  "homepage": "https://github.com/Charlotteis/done#readme",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
